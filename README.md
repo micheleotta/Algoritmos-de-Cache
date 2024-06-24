@@ -4,9 +4,10 @@ Trabalho por: Artur Pandolfo Meneghete, Leonardo Min Woo Chung, Michele Cristina
 Programa em python que simula um aplicativo de leitura de textos com uma memória cache. Desenvolvido para a matéria Performance em Sistemas Ciberfísicos - PUCPR.
 
 # Como funciona
-Ao rodar, o programa pergunta o número que identifica o texto desejado (1-100), abre este texto para leitura e fica aguardando o número de
-um novo texto. Se o número for 0, o programa é ser encerrado. Se o número for -1 o
-programa entra em modo de simulação.
+Ao rodar, o programa aguarda um número de entrada, que pode ser:
+1-100 = abre e apresenta em tela o texto identificado pelo número para leitura.
+0 = o programa é ser encerrado. 
+-1 = o programa entra em modo de simulação.
 
 # Textos
 Os 100 textos do programa são gerados no início do código e contemplam, cada um, pelo menos 1000 palavras.
