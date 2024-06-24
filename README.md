@@ -5,8 +5,11 @@ Programa em python que simula um aplicativo de leitura de textos com memória ca
 
 # Como funciona
 Ao rodar, o programa aguarda um número de entrada, que pode ser:
+
 1-100 = abre e apresenta em tela o texto identificado pelo número para leitura.
+
 0 = o programa é ser encerrado. 
+
 -1 = o programa entra em modo de simulação.
 
 # Textos
