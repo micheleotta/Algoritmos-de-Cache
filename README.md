@@ -1,7 +1,7 @@
 # Algoritmos-de-Cache
 Trabalho por: Artur Pandolfo Meneghete, Leonardo Min Woo Chung, Michele Cristina Otta e Yejin Chung
 
-Programa em python que simula um aplicativo de leitura de textos com uma memória cache. Desenvolvido para a matéria Performance em Sistemas Ciberfísicos - PUCPR.
+Programa em python que simula um aplicativo de leitura de textos com memória cache. Desenvolvido para a matéria Performance em Sistemas Ciberfísicos - PUCPR.
 
 # Como funciona
 Ao rodar, o programa aguarda um número de entrada, que pode ser:
